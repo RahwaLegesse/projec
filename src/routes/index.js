@@ -13,13 +13,11 @@ const router = createBrowserRouter([
             element:<HomeScreen />
 
 
-        },
-        {
+            },
+            {
             path: "product",
             element:<ProductsScreen />
-
-
-        },
+            }
 
     ]
     }

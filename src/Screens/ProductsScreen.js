@@ -4,7 +4,7 @@ import React from 'react'
 const ProductsScreen = () => {
   return (
     <div>
-      products
+      products screen
     </div>
   )
 }

@@ -1,6 +1,7 @@
 export default{
     products:[
         {
+            id:1,
             name:'Blue velo',
             brand:'Velo',
             catagory:'miniskirt',
@@ -10,6 +11,7 @@ export default{
 
     },
     {
+        id:2,
         name:'Blue velo',
         brand:'Velo',
         catagory:'trouser',
@@ -19,6 +21,7 @@ export default{
 
     },
     {
+        id:3,
     name:'Blue velo',
     brand:'Velo',
     catagory:'t-shirt',
@@ -27,6 +30,7 @@ export default{
     rating:'5 star review'
     },
     {
+        id:4,
         name:'Blue velo',
         brand:'Velo',
         catagory:'t-shirt',
@@ -35,6 +39,7 @@ export default{
         rating:'5 star review'
         },
         {
+            id:5,
             name:'Blue velo',
             brand:'Velo',
             catagory:'t-shirt',
@@ -43,6 +48,7 @@ export default{
             rating:'5 star review'
             },
             {
+                id:6,
                 name:'Blue velo',
                 brand:'Velo',
                 catagory:'t-shirt',
@@ -51,6 +57,7 @@ export default{
                 rating:'5 star review'
                 },
                 {
+                    id:7,
                     name:'Blue velo',
                     brand:'Velo',
                     catagory:'t-shirt',
@@ -59,6 +66,7 @@ export default{
                     rating:'5 star review'
                     },
                     {
+                        id:8,
                         name:'Blue velo',
                         brand:'Velo',
                         catagory:'t-shirt',
